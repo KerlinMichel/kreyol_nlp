@@ -65,7 +65,7 @@ KREYÒL_CONTRACTIONS = (Contraction.pronoun_contractions() +
                        TE_CONTRACTIONS +
                        [Contraction('ale', 'al')])
 
-def expand_kreyòl_contractions(text):
+def expand_kreyòl_contractions(text: str) -> str:
     for contraction in KREYÒL_CONTRACTIONS:
         text = contraction.expand(text)
     return text
