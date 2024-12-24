@@ -1,2 +1,6 @@
+# Corpus Cache
+kreyol_nlp/corpuses/**
+!kreyol_nlp/corpuses/.gitkeep
+
 # Python
 __pycache__/

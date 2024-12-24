@@ -1,5 +1,7 @@
 import os
+import requests
 import unicodedata
+from urllib.parse import urlparse
 
 
 class WordCorpus():
@@ -20,5 +22,58 @@ class WordCorpus():
         with open(file_path, 'w') as file:
             file.write('\n'.join(sorted(self.words, key=lambda word: unicodedata.normalize('NFKD', word))))
 
+class Corpus():
+    def __init__(self, name, src, license_src, use_corpus_cache: bool = True):
+        self.corpus_text = Corpus.handle_src(src, name, use_corpus_cache, 'txt')
+        self.license = Corpus.handle_src(license_src, name, use_corpus_cache, 'LICENSE')
+
+    @staticmethod
+    def handle_src(src, name, use_corpus_cache: bool, copus_cache_file_extension: str):
+        corpus_cache_file_path = f'corpuses/{name}.{copus_cache_file_extension}'
+        # TODO: using __file__ is bad practice
+        corpus_cache_full_file_path = os.path.join(os.path.dirname(__file__), corpus_cache_file_path)
+
+        if use_corpus_cache and os.path.exists(corpus_cache_full_file_path):
+            with open(corpus_cache_full_file_path, 'r') as corpus_cache_file:
+                return corpus_cache_file.read()
+
+        if type(src) is str and urlparse(src).scheme.lower() in ['http', 'https']:
+            response = requests.get(src)
+            response.raise_for_status()
+            if use_corpus_cache and not os.path.exists(corpus_cache_full_file_path):
+                with open(corpus_cache_full_file_path, 'wb+') as corpus_cache_file:
+                    corpus_cache_file.write(requests.get(src).content)
+            return requests.get(src).content
+
 # TODO: using __file__ is bad practice
 KREYÒL_MO_CORPUS = WordCorpus(os.path.join(os.path.dirname(__file__), 'mo.txt'))
+
+CMU_SPEECH_CORPUS = Corpus(
+    name='Carnegie_Mellon_Haitian_Creole_Speech_data',
+    src='http://www.speech.cs.cmu.edu/haitian/speech/data/cmu_haitian_speech/etc/txt.done.data',
+    license_src='http://www.speech.cs.cmu.edu/haitian/speech/data/cmu_haitian_speech/COPYING'
+)
+
+CMU_SPEECH_2_CORPUS = Corpus(
+    name='Carnegie_Mellon_Haitian_Creole_Speech_data_2',
+    src='http://www.speech.cs.cmu.edu/haitian/speech/data2/cmu_haitian_speech2/etc/txt.done.data',
+    license_src='http://www.speech.cs.cmu.edu/haitian/speech/data2/cmu_haitian_speech2/COPYING'
+)
+
+CMU_MEDICAL_TEXT_CORPUS = Corpus(
+    name='Carnegie_Mellon_Haitian_Creole_Medical_text_data',
+    src='http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.ht',
+    license_src='http://www.speech.cs.cmu.edu/haitian/text/COPYING'
+)
+
+CMU_NEWSWIRE_TEXT_CORPUS = Corpus(
+    name='Carnegie_Mellon_Haitian_Creole_Newswire_text_data',
+    src='http://www.speech.cs.cmu.edu/haitian/text/newswire-all.ht',
+    license_src='http://www.speech.cs.cmu.edu/haitian/text/COPYING'
+)
+
+CMU_GLOSSARY_TEXT_CORPUS = Corpus(
+    name='Carnegie_Mellon_Haitian_Creole_Newswire_text_data',
+    src='http://www.speech.cs.cmu.edu/haitian/text/glossary-all-fix.ht',
+    license_src='http://www.speech.cs.cmu.edu/haitian/text/COPYING'
+)
