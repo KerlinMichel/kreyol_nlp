@@ -47,7 +47,10 @@ def int_to_words(integer: int, replace_hyphen_with: str='-') -> str:
     
     # handle 0-100
     if integer in _FIRST_100_INT_TO_WORDS:
-        return _FIRST_100_INT_TO_WORDS[integer]
+        words = _FIRST_100_INT_TO_WORDS[integer]
+        if replace_hyphen_with != '-':
+            words = words.replace('-', replace_hyphen_with)
+        return words
 
     digits = _int_to_digits(integer)
     words = []
@@ -95,6 +98,6 @@ def int_to_words(integer: int, replace_hyphen_with: str='-') -> str:
 
     words = ' '.join(words)
     if replace_hyphen_with != '-':
-        words.replace('-', replace_hyphen_with)
+        words = words.replace('-', replace_hyphen_with)
     
     return words

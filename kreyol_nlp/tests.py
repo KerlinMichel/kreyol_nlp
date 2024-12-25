@@ -1,6 +1,6 @@
 import unittest
 
-from kreyol_nlp import process_ng_as_unigraphs_or_digraph
+from kreyol_nlp import process_ng_as_unigraphs_or_digraph, process_numbers
 from kreyol_nlp import int_to_words
 
 class TextProcessingTest(unittest.TestCase):
@@ -14,6 +14,19 @@ class TextProcessingTest(unittest.TestCase):
         for text, processed_text_target in text_and_processed_text_target_pairs:
             processed_text = process_ng_as_unigraphs_or_digraph(text)
             self.assertEqual(processed_text, processed_text_target)
+
+    def test_process_numbers(self):
+        numbers_text_and_processed_numbers_text_target_pairs = [
+            ('12 ', '12 '),
+            ('gen 100,', 'gen 100'),
+            (' 456.', ' 456'),
+            ('33.000', '33000'),
+            ('189,123', '189123')
+        ]
+        for numbers_text, processed_numbers_text_target in numbers_text_and_processed_numbers_text_target_pairs:
+            processed_numbers_text = process_numbers(numbers_text)
+            self.assertEqual(processed_numbers_text, processed_numbers_text_target)
+
 
 class NumToWordsTest(unittest.TestCase):
     def test_int_to_words(self):
