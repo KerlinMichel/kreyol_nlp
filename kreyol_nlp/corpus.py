@@ -23,9 +23,15 @@ class WordCorpus():
             file.write('\n'.join(sorted(self.words, key=lambda word: unicodedata.normalize('NFKD', word))))
 
 class Corpus():
-    def __init__(self, name, src, license_src, use_corpus_cache: bool = True):
+    def __init__(self,
+                 name,
+                 src,
+                 license_src,
+                 use_corpus_cache:bool=True,
+                 corrected_spellings:dict={}): # corrected_spellings {mispelled => correct spelling}
         self.corpus_text = Corpus.handle_src(src, name, use_corpus_cache, 'txt')
         self.license = Corpus.handle_src(license_src, name, use_corpus_cache, 'LICENSE')
+        self.corrected_spellings = corrected_spellings
 
     @staticmethod
     def handle_src(src, name, use_corpus_cache: bool, copus_cache_file_extension: str):
@@ -51,7 +57,14 @@ KREYÒL_MO_CORPUS = WordCorpus(os.path.join(os.path.dirname(__file__), 'mo.txt')
 CMU_SPEECH_CORPUS = Corpus(
     name='Carnegie_Mellon_Haitian_Creole_Speech_data',
     src='http://www.speech.cs.cmu.edu/haitian/speech/data/cmu_haitian_speech/etc/txt.done.data',
-    license_src='http://www.speech.cs.cmu.edu/haitian/speech/data/cmu_haitian_speech/COPYING'
+    license_src='http://www.speech.cs.cmu.edu/haitian/speech/data/cmu_haitian_speech/COPYING',
+    corrected_spellings = {
+        'kontitisyon': 'konstitisyon',
+        'kriminèlyo': 'kriminèl yo',
+        'lapriyèy': 'lapriyè y',
+        'noulo': 'nouvo',
+        'pendan': 'pandan'
+    }
 )
 
 CMU_SPEECH_2_CORPUS = Corpus(
