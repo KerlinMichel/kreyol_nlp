@@ -1,1 +1,1 @@
-include kreyol_nlp/mo.txt
+include kreyol_nlp/*.txt
