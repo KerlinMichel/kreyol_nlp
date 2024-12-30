@@ -9,5 +9,6 @@ setup(
     license_files=('LICENSE',),
     packages=find_packages(),
     install_requires=[],
+    data_files=[('', 'kreyol_nlp/mo.txt')],
     classifiers=[],
 )
