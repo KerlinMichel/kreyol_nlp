@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='kreyol_nlp',
@@ -7,8 +7,7 @@ setup(
     url='https://github.com/KerlinMichel/kreyol_nlp',
     author='Kerlin Michel',
     license_files=('LICENSE',),
-    packages=['kreyol_nlp'],
+    packages=find_packages(),
     install_requires=[],
-
     classifiers=[],
 )
