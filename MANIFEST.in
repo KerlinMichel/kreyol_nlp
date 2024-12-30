@@ -1,1 +1,2 @@
 include kreyol_nlp/*.txt
+include kreyol_nlp/corpus/.gitkeep

@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     package_data={
-        'kreyol_nlp': ['*.txt']
+        'kreyol_nlp': ['*.txt', 'corpuses/.gitkeep']
     },
     classifiers=[],
 )
