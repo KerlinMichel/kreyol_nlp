@@ -269,6 +269,7 @@ baraj
 bare
 barik
 barikad
+baryè
 basen
 basrak
 bat
@@ -548,6 +549,7 @@ deyè
 deyò
 dezabiye
 dezakò
+dezannouye
 dezanpare
 dezè
 dezi
@@ -580,6 +582,7 @@ dimansyon
 dire
 direksyon
 direktè
+dirèk
 dirèkteman
 dirèktè
 diri
@@ -676,6 +679,7 @@ ekonomi
 ekonomik
 ekri
 eksetera
+eksite
 ekskiz
 eksperyans
 ekspèyans
@@ -695,6 +699,7 @@ elektè
 elektoral
 elektrisite
 eleman
+elevasyon
 elèktrisite
 elèv
 elve
@@ -1370,6 +1375,7 @@ kòmèsan
 kòmkwa
 kòn
 kònen
+kònè
 kòrèk
 kòripsyon
 kòsaj
@@ -2060,6 +2066,7 @@ pouvwa
 poze
 pozisyon
 pòch
+pòm
 pòs
 pòsyon
 pòt
@@ -2223,6 +2230,7 @@ regrèt
 rejim
 rejis
 rejte
+rejwi
 rekèt
 reklamasyon
 reklame
@@ -2244,6 +2252,7 @@ relyèf
 remake
 remanbre
 remete
+remèd
 remèsye
 remonte
 remoute
@@ -2790,6 +2799,7 @@ zan
 zanj
 zanmi
 zanmitay
+zannimo
 zansèt
 ze
 zegwi
