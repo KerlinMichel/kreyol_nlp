@@ -48,7 +48,7 @@ def remove_sentence_ending_punctuation(text: str,
     # Replaces {letter}{punctuation}{whitespace or string end} with {letter}{whitespace or string end}
     punctuations = re.escape(punctuations)
     replace_fn = lambda m: m.groups()[0] + m.groups()[1]
-    return re.sub(rf"([{letters_in_text}]){[punctuations]}(\s|$)", replace_fn, text)
+    return re.sub(rf"([{letters_in_text}])[\s]*{[punctuations]}(\s|$)", replace_fn, text)
 
 def remove_integer_decimal_separator(text: str,
                              decimal_separators = ','):

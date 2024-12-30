@@ -1173,7 +1173,6 @@ kontante
 kontantman
 konte
 kontinye
-kontitisyon
 kontra
 kontre
 kontrenn
@@ -1260,7 +1259,6 @@ kreyòl
 krich
 krim
 kriminèl
-kriminèlyo
 kristal
 kritik
 kritike
@@ -1341,7 +1339,6 @@ lapli
 lapolis
 laprès
 lapriyè
-lapriyèy
 laras
 larezone
 lari
@@ -1784,7 +1781,6 @@ peche
 pede
 pelerinaj
 pen
-pendan
 pentad
 penyen
 peri
