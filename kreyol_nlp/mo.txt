@@ -99,13 +99,16 @@ anan
 anba
 anbasad
 anbasadè
+anbeli
 anbetan
 anbiskad
 anbyans
 andedan
 andeyò
 andomaje
+andòmi
 ane
+anfantin
 anfas
 anfaz
 anfen
@@ -116,6 +119,7 @@ angaje
 angajman
 anglè
 angoudi
+angrè
 anivèsè
 anjanm
 ankadreman
@@ -134,9 +138,11 @@ anmenmtan
 anmè
 anmwe
 ann
+annafè
 annaryè
 annatandan
 anndan
+annwi
 annwiyan
 anonse
 anòt
@@ -147,6 +153,7 @@ anpile
 anplasman
 anplis
 anplwaye
+anraje
 ansanm
 ansanmy
 ansasen
@@ -287,6 +294,7 @@ basen
 basrak
 bat
 batan
+batanklan
 batay
 batèm
 bati
@@ -302,11 +310,13 @@ benediksion
 benediksyon
 benefis
 beni
+beny
 benyen
 bese
 betiz
 betonnen
 bezwen
+bèbè
 bèf
 bèl
 bèlfi
@@ -319,6 +329,7 @@ bilan
 bilten
 bip
 bisiklèt
+biskèt
 biswit
 bit
 bite
@@ -341,6 +352,7 @@ bo
 bobo
 bofis
 bokit
+bokou
 bon
 bondye
 bonè
@@ -351,6 +363,7 @@ bonnonm
 bonswa
 bouch
 bouche
+bouda
 boujon
 boujwa
 bouk
@@ -368,9 +381,11 @@ bouti
 boutik
 bouyi
 bouyon
+bouzen
 bò
 bòdi
 bòkote
+bòks
 bòl
 bòla
 bòlèt
@@ -389,6 +404,7 @@ brigad
 briganday
 brital
 briz
+brize
 bròs
 bwa
 bwason
@@ -400,6 +416,8 @@ bwè
 bwèt
 bwote
 byen
+byennere
+byennèt
 byè
 cha
 chabon
@@ -496,6 +514,7 @@ debòch
 dechaj
 dechennen
 dechèpiye
+dechoukay
 dechouke
 defakto
 defann
@@ -506,6 +525,7 @@ defi
 defile
 defo
 defòme
+defwa
 degi
 degonfle
 degout
@@ -516,6 +536,7 @@ dejwe
 deklarasyon
 deklare
 dekonpoze
+dekonpozisyon
 dekore
 dekoupe
 dekouraje
@@ -545,6 +566,7 @@ denonse
 denskripsyon
 denstriksyon
 depa
+depaman
 depanse
 depasaj
 depase
@@ -560,6 +582,7 @@ depòte
 deranje
 derefize
 derespekte
+deryen
 desan
 desanm
 desann
@@ -580,6 +603,7 @@ devwale
 deyè
 deyò
 dezabiye
+dezagreman
 dezakò
 dezannouye
 dezanpare
@@ -640,6 +664,7 @@ divinò
 divize
 divizyon
 divòse
+dizan
 dizè
 dizon
 dizyèm
@@ -683,6 +708,7 @@ dyab
 dyalòg
 dye
 dyòb
+dyòl
 e
 ebenis
 echantiyon
@@ -703,29 +729,35 @@ egzèsis
 egzijans
 egzije
 egziste
+ekay
 eki
 ekilib
 ekip
 ekipman
+ekla
 eklate
 ekonomi
 ekonomik
 ekri
+ekriti
 eksetera
 eksite
 ekskiz
+ekspedye
 eksperyans
 ekspèyans
 eksplikasyon
 eksplike
 eksplozyon
 ekspoze
+ekspòte
 eksprime
 eksziste
 ekzamine
 ekzante
 ekzije
 ekziste
+elaji
 elatriye
 eleksyon
 elektè
@@ -744,6 +776,7 @@ endepandan
 endijan
 endijesyon
 endirèkteman
+endispoze
 endividyèl
 endividyèlman
 endyen
@@ -760,6 +793,7 @@ enkasere
 enkli
 enkouraje
 enkyete
+ennan
 enpe
 enperyalis
 enpè
@@ -777,6 +811,7 @@ enstans
 enstitisyon
 enstitisyonèl
 enstriman
+entansyon
 entelijan
 enteresan
 enterese
@@ -811,7 +846,10 @@ esè
 eskalye
 esklav
 esklavaj
+eskout
+eskòpyon
 espas
+espektak
 esperyans
 espesyal
 espesyalis
@@ -826,6 +864,7 @@ estati
 estil
 estime
 estipid
+estraòdinè
 etaj
 etap
 etènèl
@@ -855,6 +894,7 @@ fanm
 fanmi
 farawon
 farin
+farinay
 farizyen
 fas
 fasad
@@ -875,16 +915,19 @@ fennen
 fennèt
 feraye
 festivite
+fet
 fete
 fevriye
 fè
 fèb
+fèblan
 fèk
 fèm
 fèmen
 fènwa
 fèt
 fèy
+fèzè
 fi
 fidèl
 fig
@@ -905,6 +948,7 @@ fizi
 fizik
 flambe
 flanm
+flannen
 fleri
 fleyo
 flè
@@ -923,6 +967,7 @@ fonksyonman
 fonksyònman
 fonn
 fonse
+fontèn
 fot
 fotèy
 fou
@@ -982,10 +1027,13 @@ ganizon
 ganmèl
 garanti
 gason
+gaspiyaj
+gaspiye
 gato
 gaye
 gaz
 gazèl
+gazolin
 gen
 gendwa
 gentan
@@ -1117,6 +1165,7 @@ jenou
 jere
 jesyon
 jete
+jèm
 jèn
 jès
 jibye
@@ -1133,13 +1182,16 @@ jiskan
 jiskote
 jistifye
 jistis
+jiye
 jiyè
 jodi
 jodia
 jou
 jouk
+joumou
 jounalis
 jounen
+jounou
 joupa
 joure
 jòdi
@@ -1174,6 +1226,7 @@ kaka
 kakawo
 kalbas
 kale
+kalewès
 kalifye
 kalite
 kalkile
@@ -1233,6 +1286,7 @@ kenbe
 kenz
 kenzan
 kesis
+kestyon
 kesyon
 kesyone
 kè
@@ -1261,6 +1315,7 @@ kise
 kit
 kite
 kivèt
+kiyè
 kiyès
 klas
 klate
@@ -1280,6 +1335,7 @@ kole
 koleksyon
 kolè
 kolizyon
+kolòn
 koma
 komès
 komèsan
@@ -1292,6 +1348,7 @@ komisyon
 konbat
 konbe
 konbinezon
+konbit
 konbyen
 kondane
 kondisyon
@@ -1346,6 +1403,7 @@ konsèy
 konsidere
 konsiltasyon
 konsilte
+konsiyen
 konsolasyon
 konsta
 konstitisyon
@@ -1358,6 +1416,7 @@ kontan
 kontante
 kontantman
 konte
+kontinwe
 kontinye
 kontra
 kontraryete
@@ -1370,6 +1429,7 @@ konvenk
 konvèti
 konviksyon
 konwè
+konyeya
 koreksyon
 koresponn
 korèk
@@ -1387,9 +1447,11 @@ kouche
 koud
 koudeta
 koukouwouj
+koukouy
 koule
 koulè
 koulèv
+koulis
 koulye
 kouman
 koumanse
@@ -1423,12 +1485,14 @@ kouzin
 kowonpi
 koz
 koze
+kozman
 kò
 kòb
 kòboy
 kòche
 kòd
 kòdon
+kòdonye
 kòdyòm
 kòf
 kòk
@@ -1450,8 +1514,10 @@ kònè
 kòrèk
 kòripsyon
 kòsaj
+kòt
 kòve
 kòz
+krabinay
 krabinen
 kran
 krapo
@@ -1465,6 +1531,7 @@ kreye
 kreyon
 kreyòl
 krèm
+kribich
 krich
 krim
 kriminèl
@@ -1476,12 +1543,14 @@ kriz
 kwa
 kwafez
 kwafè
+kwasans
 kwayan
 kwaze
 kwazyè
 kwen
 kwense
 kwè
+kwis
 kwit
 kwiv
 kwoke
@@ -1494,6 +1563,7 @@ labank
 labanyè
 labatwa
 labou
+labouyi
 lachas
 lachè
 lacho
@@ -1561,15 +1631,18 @@ lapen
 lapenn
 laperèz
 lapè
+lapèch
 lapli
 lapolis
 lapòs
 laprès
 lapriyè
+laraj
 laras
 larezone
 lari
 larivyè
+lasosyete
 latè
 lavalas
 lave
@@ -1592,6 +1665,7 @@ lenjistis
 lenkondite
 lennmi
 lesiv
+lesklavaj
 lespri
 lespwa
 lestomak
@@ -1602,7 +1676,9 @@ letan
 letandi
 letanp
 levanjil
+levasyon
 leve
+lezòm
 lè
 lèd
 lèfini
@@ -1628,16 +1704,22 @@ limenm
 limit
 limyè
 lin
+linèt
 lis
 lise
 lite
 liv
+livrezon
 liy
 lizyè
 lobe
 lokal
+lokatè
 lolo
 lonbraj
+lonbray
+lonbrik
+lonbrit
 long
 longè
 lonje
@@ -1651,6 +1733,7 @@ lougawou
 louvri
 louwi
 lò
+lòbèy
 lòd
 lògèy
 lòj
@@ -1692,6 +1775,7 @@ mak
 makak
 make
 makè
+maklouklou
 makout
 makòn
 maksimòm
@@ -1706,9 +1790,11 @@ malfektè
 malfini
 malgre
 malonèt
+malonnèt
 maltèt
 maltirize
 maltrete
+malveyan
 mamit
 mamn
 manchèt
@@ -1730,12 +1816,15 @@ manman
 manmn
 mannèv
 mannyè
+mantè
 manti
 manyen
 manyè
 map
 marasa
 mare
+marekaj
+marengwen
 mari
 maryaj
 marye
@@ -1764,6 +1853,7 @@ menas
 menase
 menm
 mennaj
+mennase
 mennen
 mentou
 meprize
@@ -1803,13 +1893,16 @@ minòt
 minwi
 mirak
 miray
+mistè
 misye
 misyon
 misyonè
 mit
 mitan
 miyami
+miyèt
 miyò
+mizerikòd
 mizè
 mizik
 mizikal
@@ -1820,6 +1913,7 @@ modènize
 modòd
 moman
 mon
+monchè
 mondyal
 moniman
 monn
@@ -1863,6 +1957,7 @@ myèl
 n
 na
 naje
+najè
 nam
 nan
 nanm
@@ -1879,6 +1974,7 @@ nayif
 nayklèb
 nazirit
 neg
+neglijans
 nenpòt
 nepe
 nesans
@@ -1959,6 +2055,7 @@ opresto
 oralanti
 orevwa
 orit
+oserye
 osinon
 osnon
 osò
@@ -2027,6 +2124,7 @@ pasan
 pasdwa
 pase
 paske
+paspouki
 pastè
 pasyans
 pasyèl
@@ -2051,6 +2149,7 @@ pede
 pelerinaj
 pen
 pentad
+peny
 penyen
 peri
 peryòd
@@ -2088,6 +2187,7 @@ piga
 pijon
 pikan
 pikòp
+pikwa
 pil
 piman
 pinga
@@ -2099,6 +2199,7 @@ pis
 pisans
 pit
 piti
+pitimi
 pitit
 pito
 pitye
@@ -2119,6 +2220,7 @@ plat
 platin
 plede
 plen
+plenn
 plent
 plenyen
 plezantri
@@ -2166,6 +2268,7 @@ pouri
 pous
 pouse
 pousyè
+poutan
 poutèt
 pouvwa
 poze
@@ -2192,6 +2295,7 @@ preche
 preferans
 prefere
 prefè
+prejije
 prekosyon
 premye
 premyè
@@ -2201,6 +2305,7 @@ preparasyon
 prepare
 prese
 presyon
+pretann
 prete
 pretèks
 preval
@@ -2223,6 +2328,7 @@ priye
 priyè
 prizon
 prizonye
+prochen
 prochèn
 pwa
 pwal
@@ -2233,6 +2339,7 @@ pwazon
 pwemye
 pwen
 pwent
+pwente
 pwenti
 pwèl
 pwès
@@ -2326,6 +2433,7 @@ rebati
 rebèl
 rebò
 rebwazman
+rebyen
 rechanj
 rechany
 recho
@@ -2352,6 +2460,7 @@ rekonèt
 rekonmanse
 rekonpans
 rekonsilyasyon
+rekò
 rekòlte
 rekòmandasyon
 rekòmande
@@ -2394,6 +2503,7 @@ resepsyon
 resevwa
 resi
 reskonsab
+reskonsablite
 respekte
 respè
 responsab
@@ -2429,6 +2539,7 @@ reyon
 rezen
 rezeve
 rezèv
+rezèvasyon
 rezidan
 rezilta
 rezo
@@ -2501,6 +2612,7 @@ sekrè
 seksyon
 sektanm
 sektè
+sekwe
 sele
 selebrasyon
 selon
@@ -2511,7 +2623,9 @@ senatè
 sendika
 senk
 senkant
+sennesòf
 senp
+senpatik
 senpatizan
 sentiwon
 separe
@@ -2530,6 +2644,7 @@ sezon
 sè
 sèch
 sèd
+sèjousi
 sèk
 sèl
 sèlman
@@ -2567,6 +2682,7 @@ sikonsizyon
 sikonstans
 sila
 silans
+simaye
 simen
 simityè
 sin
@@ -2576,6 +2692,7 @@ sipevize
 sipèfisi
 sipoze
 sipò
+sipòtan
 sipòte
 sirèt
 sis
@@ -2584,6 +2701,7 @@ sistèm
 sitan
 site
 sitèlman
+sitèn
 sitiyasyon
 sitou
 sitwayen
@@ -2592,6 +2710,7 @@ sitwon
 siveye
 sivik
 sivil
+sivouplè
 siwo
 siy
 siyal
@@ -2606,6 +2725,7 @@ solid
 solidarite
 solisyon
 solo
+somèy
 son
 sonje
 sosis
@@ -2615,6 +2735,7 @@ sot
 sote
 soti
 sou
+souch
 soudè
 souf
 soufle
@@ -2626,6 +2747,7 @@ soulve
 soulye
 soumèt
 soup
+soupi
 souri
 sous
 sousi
@@ -2677,6 +2799,7 @@ tanpèt
 tanpri
 tansyon
 tant
+tantasyon
 tantativ
 tanzantan
 tap
@@ -2687,12 +2810,15 @@ taprale
 tarif
 taye
 tayè
+tchatcha
+tchouboum
 te
 teknisyen
 telefòn
 temwayaj
 temwaye
 temwen
+tenyen
 teras
 teritoryal
 teritwa
@@ -2727,7 +2853,9 @@ touf
 toufe
 toujou
 toulede
+toulejou
 tounant
+tounavis
 tounen
 toupatou
 toupre
@@ -2736,6 +2864,7 @@ tourim
 tousuit
 touswit
 tout
+toutalè
 toutan
 toutotan
 toutouni
@@ -2788,6 +2917,7 @@ twalèt
 twasan
 twati
 twazan
+twazè
 twazyèm
 two
 twoket
@@ -2816,12 +2946,14 @@ varèz
 varye
 vavari
 venen
+veritab
 verite
 veso
 veterinè
 veyatif
 veye
 vè
+vèb
 vèse
 vèsè
 vèv
@@ -2884,9 +3016,11 @@ vwazinaj
 vwazinay
 vyann
 vye
+vyeyès
 vyolasyon
 vyole
 vyolèt
+vyolon
 w
 wa
 wachintonn
@@ -2908,9 +3042,11 @@ wou
 wouj
 wouke
 woule
+woulèt
 woulib
 woulo
 wout
+wouze
 wòch
 wòklò
 wòl
@@ -2959,6 +3095,7 @@ zonbi
 zong
 zonyon
 zoranj
+zorye
 zosman
 zotobre
 zouti
@@ -2966,6 +3103,7 @@ zòd
 zòn
 zòrey
 zòrèy
+zòrye
 zòtèy
 zwazo
 zwezo
