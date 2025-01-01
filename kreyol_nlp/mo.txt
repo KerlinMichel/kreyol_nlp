@@ -341,6 +341,7 @@ blakawout
 blan
 blanch
 blanchi
+blayi
 ble
 bleng
 blese
@@ -437,6 +438,7 @@ chanje
 chanjman
 chanm
 chanmòt
+chanpay
 chanpou
 chans
 chante
@@ -533,6 +535,7 @@ degoutans
 degre
 deja
 dejwe
+dekanpe
 deklarasyon
 deklare
 dekonpoze
@@ -669,6 +672,7 @@ dizè
 dizon
 dizyèm
 djanm
+djaz
 djòb
 djòl
 dlo
@@ -794,6 +798,7 @@ enkli
 enkouraje
 enkyete
 ennan
+enpasyans
 enpe
 enperyalis
 enpè
@@ -1009,6 +1014,7 @@ fwans
 fwape
 fwaye
 fwèt
+fwit
 fwon
 fwontyè
 fyèl
@@ -1102,6 +1108,7 @@ grèk
 grès
 grèv
 grif
+grimas
 griye
 griyen
 group
@@ -1328,6 +1335,7 @@ kloure
 klozèt
 kochon
 kokenn
+kokennchenn
 kokobe
 kolaborasyon
 kolabore
@@ -1375,6 +1383,7 @@ konn
 konnen
 konnesans
 konpa
+konpanyi
 konpare
 konpetan
 konpetans
@@ -1426,6 +1435,7 @@ kontrè
 kontribisyon
 kontwole
 konvenk
+konvenki
 konvèti
 konviksyon
 konwè
@@ -1513,7 +1523,9 @@ kònen
 kònè
 kòrèk
 kòripsyon
+kòryas
 kòsaj
+kòsay
 kòt
 kòve
 kòz
@@ -1548,6 +1560,7 @@ kwayan
 kwaze
 kwazyè
 kwen
+kwenn
 kwense
 kwè
 kwis
@@ -1559,6 +1572,7 @@ kwòkachen
 l
 la
 laba
+labalèn
 labank
 labanyè
 labatwa
@@ -1765,6 +1779,7 @@ madan
 madanm
 madi
 madichon
+madivin
 madras
 magazen
 maji
@@ -1831,6 +1846,7 @@ marye
 mas
 masakre
 masif
+maskay
 maswife
 match
 maten
@@ -2148,6 +2164,7 @@ peche
 pede
 pelerinaj
 pen
+pengwen
 pentad
 peny
 penyen
@@ -2406,6 +2423,7 @@ ranpli
 ransèyman
 ranswa
 rantre
+ranvwa
 rapèl
 rapid
 raple
@@ -2761,6 +2779,7 @@ sòlda
 sòm
 sòt
 sòti
+spektatè
 swa
 swadizan
 swaf
@@ -2956,6 +2975,7 @@ vè
 vèb
 vèse
 vèsè
+vèti
 vèv
 vi
 vid
@@ -3037,6 +3057,7 @@ wityèm
 wo
 won
 wont
+wonyen
 wotè
 wou
 wouj
@@ -3046,6 +3067,7 @@ woulèt
 woulib
 woulo
 wout
+woutin
 wouze
 wòch
 wòklò
